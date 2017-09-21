@@ -1,0 +1,13 @@
+E:\靳培港\net\BookShop\BookShop\bin\Debug\BookShop.exe.config
+E:\靳培港\net\BookShop\BookShop\bin\Debug\BookShop.exe
+E:\靳培港\net\BookShop\BookShop\bin\Debug\BookShop.pdb
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.csprojResolveAssemblyReference.cache
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.Form1.resources
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.index.resources
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.Properties.Resources.resources
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.csproj.GenerateResource.Cache
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.exe
+E:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.pdb
+F:\靳培港\net\BookShop\BookShop\bin\Debug\BookShop.exe.config
+F:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.exe
+F:\靳培港\net\BookShop\BookShop\obj\Debug\BookShop.pdb
